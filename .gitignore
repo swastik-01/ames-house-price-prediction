@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+catboost_info/
+*.zip
