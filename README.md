@@ -18,6 +18,13 @@ py -m pip install -r requirements.txt
 py -m jupyter notebook notebooks/ames_house_price_prediction.ipynb
 ```
 
+## Milestone files
+
+- [`milestones/01-data-exploration-and-cleaning.md`](milestones/01-data-exploration-and-cleaning.md)
+- [`milestones/02-feature-engineering-and-selection.md`](milestones/02-feature-engineering-and-selection.md)
+- [`milestones/03-model-building-and-tuning.md`](milestones/03-model-building-and-tuning.md)
+- [`milestones/04-evaluation-and-submission.md`](milestones/04-evaluation-and-submission.md)
+
 ## Files
 
 - `data/train.csv` — training set
